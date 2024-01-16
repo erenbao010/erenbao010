@@ -5,5 +5,5 @@ categories: [Authentication, spring]
 tags: [spring ]     # TAG names should always be lowercase
 ---
 
-![Authen](../assets/img/authen.png) 
+![hinh-anh](/assets/img/authen.png) 
 
