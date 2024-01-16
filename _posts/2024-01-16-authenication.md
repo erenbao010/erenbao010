@@ -1,8 +1,9 @@
 ---
-title: Sequence diagram authen
+title: Sequence diagram authentication
 date: 2024-01-16 11:00:00 +0700
 categories: [Authentication, spring]
 tags: [spring ]     # TAG names should always be lowercase
 ---
 
-![Authen](../assets/img/authen.png)
+![Authen](../assets/img/authen.png) {: width="700" height="400" }
+Img description
