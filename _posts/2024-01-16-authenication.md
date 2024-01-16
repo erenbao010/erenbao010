@@ -5,5 +5,5 @@ categories: [Authentication, spring]
 tags: [spring ]     # TAG names should always be lowercase
 ---
 
-![Authen](../assets/img/authen.png) {: width="700" height="400" }
-Img description
+![Authen](../assets/img/authen.png) 
+
